@@ -13,7 +13,6 @@ namespace HelloGitWorld
             Console.WriteLine("Hello World");
             Console.WriteLine("This is the first line");
             Console.WriteLine("This is another line");
-            Console.WriteLine("This Line Is From John - Line 1");
         }
     }
 }
